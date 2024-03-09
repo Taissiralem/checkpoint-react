@@ -1,0 +1,27 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  overflow: hidden;
+}
+#root {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  overflow: hidden;
+  gap: 25px;
+}
+
+.navv .container {
+  /* gap: 65px; */
+  padding: 0px 50vw;
+  justify-content: center;
+}
+.jkk {
+  max-width: 100px;
+}
+
+.hstack {
+  display: flex;
+  justify-content: center;
+}
